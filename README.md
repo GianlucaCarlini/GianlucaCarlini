@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="[https://media1.tenor.com/images/6958876e721d19e422ee6a929c9f466a/tenor.gif?itemid=10931507](https://www.google.com/search?q=hello+there&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiyif6PxL3-AhX-QfEDHchbAtwQ_AUoAXoECAEQAw&biw=1650&bih=916&dpr=1.5#imgrc=I1ulOKkf7b3DwM)">
+</p>
+
 
 <!--
 **GianlucaCarlini/GianlucaCarlini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
