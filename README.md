@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.kym-cdn.com/editorials/icons/original/000/004/391/Hello_there.jpg" width="700", height="400">
-</p>
-
 I'm Gianluca, a PhD student in Physics at University of Bologna.
 
 <!--
